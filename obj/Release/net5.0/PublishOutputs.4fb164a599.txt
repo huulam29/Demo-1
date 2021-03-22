@@ -1,0 +1,7 @@
+C:\Users\HUU\source\Containers\Demo\Demo\obj\Docker\publish\Demo.exe
+C:\Users\HUU\source\Containers\Demo\Demo\obj\Docker\publish\appsettings.Development.json
+C:\Users\HUU\source\Containers\Demo\Demo\obj\Docker\publish\appsettings.json
+C:\Users\HUU\source\Containers\Demo\Demo\obj\Docker\publish\Demo.dll
+C:\Users\HUU\source\Containers\Demo\Demo\obj\Docker\publish\Demo.deps.json
+C:\Users\HUU\source\Containers\Demo\Demo\obj\Docker\publish\Demo.runtimeconfig.json
+C:\Users\HUU\source\Containers\Demo\Demo\obj\Docker\publish\Demo.pdb

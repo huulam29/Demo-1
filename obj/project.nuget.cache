@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o1NoqApPL1jq/Ssy4vXv+AjiXOcICeQBOuPo4wO4xZwjfXdHaI2rxcnKmYCIm2oQOL1R4JWeuo2NRP3A2ThlbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HUU\\source\\Containers\\Demo\\Demo\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HUU\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\HUU\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
